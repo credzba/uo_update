@@ -1,2 +1,7 @@
 {
+  "serverList": {
+    "Eventine": "http://uoeventine.net/ServerUpdates/",
+    "Wolvesbane": "http://wolvesbaneuo.com/wp55/OrionUpdate/"
+  },
+  "activeServer": ""
 }
